@@ -64,7 +64,7 @@ if st.button("Sortear Números"):
     adicionar_sorteio_ao_historico(novo_sorteio)
     st.success(f"Seu sorteio gerado: **{', '.join(map(str, novo_sorteio))}**")
 
----
+
 
 # Seção de Histórico e Estatísticas
 
@@ -90,7 +90,7 @@ if st.session_state.historico_sorteios:
         st.success("Histórico limpo!")
         st.rerun() # Recarrega a página para refletir a mudança
 
-    ---
+    
 
     st.header("Estatísticas dos Seus Sorteios Simulados")
     df_estatisticas = calcular_estatisticas_simuladas()
