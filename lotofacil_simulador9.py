@@ -346,4 +346,4 @@ with tab4:
         st.warning(f"Arquivo '{ARQUIVO_TABELA_PRECO_CSV}' não encontrado ou vazio. Por favor, adicione um arquivo CSV com a tabela de preços.")
 
 st.markdown("---")
-st.markdown("Desenvolvido com ❤️ por [Seu Nome/Empresa]")
+st.markdown("Desenvolvido com ❤️ por [Marcia Romanato - BOA SORTE ]")
