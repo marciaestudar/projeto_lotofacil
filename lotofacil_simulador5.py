@@ -136,4 +136,4 @@ else:
 
 
 st.markdown("---")
-st.markdown("Desenvolvido com ❤️ por [Seu Nome/Empresa]") # Opcional: Adicione sua assinatura
+st.markdown("Desenvolvido com ❤️ por [Seu Marcia Romanato - BOA SORTE ]") # Opcional: Adicione sua assinatura
